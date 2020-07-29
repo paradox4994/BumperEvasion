@@ -87,12 +87,6 @@ while game_loop:
     e19.drawl(screen)
     player.draw()
 
-
-    
-
-    
-
-
     
     pygame.display.update()
         
